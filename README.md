@@ -6,7 +6,7 @@ A first-person horror experience set within an abandoned laboratory, engineered 
 > **[🔗 View the full technical breakdown on my Portfolio](https://sites.google.com/view/myles-coleman/projects/unreal-engine-level-design)**
 
 ## 📺 Video Showcase
-[![The Lab: Level Design Showcase](https://img.youtube.com/vi/ljJ7hkl3i04&t=5s/0.jpg)](https://www.youtube.com/watch?v=ljJ7hkl3i04&t=5s)
+[![The Lab: Level Design Showcase](https://img.youtube.com/vi/ljJ7hkl3i04/0.jpg)](https://www.youtube.com/watch?v=ljJ7hkl3i04)
 *Click the image above to view the gameplay walkthrough, featuring the flashlight mechanics and AI encounters.*
 
 ## 🕹️ Project Overview
